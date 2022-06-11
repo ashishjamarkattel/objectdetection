@@ -34,5 +34,5 @@ Model was trained only for 25 epoch higher epoch could give better result.
 
 #### 
 
-![alt text]([https://imgur.com/i9VikDb](https://github.com/ashishjamarkattel/objectdetection/blob/master/ezgif.com-gif-maker.gif))
+![alt text](https://github.com/ashishjamarkattel/objectdetection/blob/master/ezgif.com-gif-maker.gif)
 
