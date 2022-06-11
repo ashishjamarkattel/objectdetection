@@ -32,12 +32,7 @@ Model was trained only for 25 epoch higher epoch could give better result.
 
 ## Demo
 
+#### 
 
-![alt text]([https://imgur.com/a/8Mn56Rr](https://imgur.com/gallery/8Mn56Rr))
-
-
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+![alt text](https://imgur.com/i9VikDb)
 
