@@ -32,10 +32,10 @@ Model was trained only for 25 epoch higher epoch could give better result.
 
 ## Demo
 
-#### 
 
 ![alt text](https://imgur.com/a/8Mn56Rr)
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/8Mn56Rr" data-context="false" ><a href="//imgur.com/a/8Mn56Rr"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 ## License
